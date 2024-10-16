@@ -7,4 +7,3 @@ xhofe/alist:latest
 php
 alpine
 mariadb
-php-composer
