@@ -9,3 +9,4 @@ alpine
 mariadb
 redis
 composer
+golang
