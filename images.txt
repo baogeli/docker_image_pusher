@@ -10,3 +10,4 @@ mariadb
 redis
 composer
 golang
+etcd
