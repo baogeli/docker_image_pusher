@@ -11,3 +11,4 @@ redis
 composer
 golang
 bitnami/etcd
+golang:1.23-alpine
