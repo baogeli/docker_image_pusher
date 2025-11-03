@@ -10,5 +10,5 @@ mariadb
 redis
 composer
 golang
-bitnami/etcd
+#bitnami/etcd
 golang:1.23-alpine
