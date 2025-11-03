@@ -1,15 +1,16 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-php
-alpine
-mariadb
-redis
-composer
-golang
+#php
+#alpine
+#mariadb
+#redis
+#composer
+#golang
 #bitnami/etcd
-golang:1.23-alpine
-rabbitmq:3.12-management
+#golang:1.23-alpine
+#rabbitmq:3.12-management
+postgres:15-alpine
