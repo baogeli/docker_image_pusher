@@ -12,3 +12,4 @@ composer
 golang
 #bitnami/etcd
 golang:1.23-alpine
+rabbitmq:3.12-management
