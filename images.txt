@@ -20,5 +20,6 @@
 #ubuntu:22.04
 #golang:1.24-alpine
 #sakayaparp/php5.4
-dunglas/frankenphp
-composer/composer
+#dunglas/frankenphp
+#composer/composer
+mysql:8.0
