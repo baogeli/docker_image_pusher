@@ -22,4 +22,5 @@
 #sakayaparp/php5.4
 #dunglas/frankenphp
 #composer/composer
-mysql:8.0
+#mysql:8.0
+mysql/mysql-router:8.0
