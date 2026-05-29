@@ -25,4 +25,12 @@
 #mysql:8.0
 #mysql/mysql-router:8.0
 #percona/percona-server:8.0
-percona/percona-xtradb-cluster:8.0
+#percona/percona-xtradb-cluster:8.0
+pingcap/pd:v8.1.0
+pingcap/tikv:v8.1.0
+pingcap/tidb:v8.1.0
+pingcap/tidb-operator:v2.0.1
+prom/prometheus:v2.49.1
+grafana/grafana:10.0.0
+pingcap/tidb-monitor-initializer:v8.1.0
+pingcap/tidb-monitor-reloader:v1.0.1
